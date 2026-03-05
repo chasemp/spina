@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ super() }}
+
+{% if page.meta and page.meta.epub_link %}
+<div class="md-download-bar" style="position: fixed; bottom: 0; left: 0; right: 0; background: var(--md-primary-fg-color); color: white; padding: 8px 16px; display: flex; justify-content: center; gap: 16px; z-index: 100;">
+  {% if page.meta.epub_link %}
+  <a href="{{ page.meta.epub_link }}" style="color: white; text-decoration: none;">Download EPUB</a>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}
