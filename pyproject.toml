@@ -1,0 +1,40 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "spina"
+version = "0.1.0"
+description = "PDF to web-friendly HTML/EPUB converter"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1",
+    "marker-pdf>=1.10",
+    "mkdocs>=1.6",
+    "mkdocs-material>=9.5",
+    "pypandoc>=1.13",
+    "pydantic>=2.0",
+    "pypdf>=4.0",
+    "pyyaml>=6.0",
+    "Pillow>=10.0",
+]
+
+[project.scripts]
+spina = "spina.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "slow: marks tests requiring ML model loading or real conversion",
+]
+
+[tool.mypy]
+strict = true
+packages = ["spina"]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "mypy>=1.10",
+]
