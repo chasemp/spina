@@ -1,0 +1,13 @@
+---
+images: []
+order: 344
+title: BRUCE E. JOHANSEN
+---
+
+Artificial chemicals usually are invented, manufactured, sold and used under advertised assumptions that they will provide humankind with benefits, such as the eradication of harmful pests. In some cases, however, the use of such chemicals has been found to provoke various side-effects, which, like some drugs, inflict problems for people and the environment that outweigh their benefits. In several cases during the last century, the use of chemicals has been restricted or banned because of their malodorous (and often unanticipated) effects.
+
+During the early 1960s, for example, a furor followed disclosure by Rachel Carson in *Silent Spring* (1962) of DDT's effects on the environment, largely on birds. Use of the chemical was then banned in the United States and other industrialized countries, although it continues to be used in areas where malaria-bearing mosquitoes are a major health risk.
+
+During the 1970s and 1980s, the use of CFCs (chlorofluorocarbons) as refrigerants and propellants was found to be eroding stratospheric ozone, which shields human life from cancer-inducing ultraviolet radiation. Use of CFCs was subsequently banned under international law during the late 1980s. Restoration of stratospheric ozone has been much slower than expected under the ban, however, as scientists have discovered that many of the chemical reactions which cause CFCs to erode ozone are cold-activated. As carbon dioxide, methane and other greenhouse gases near the Earth's surface retain larger amounts of heat there, the stratosphere has cooled steadily since the 1980s, accelerating ozone depletion by remaining CFCs. Thus solution of ozone depletion depends to an important extent on human success in combating global warming.
+
+A number of "persistent organic pollutants" (POPs) also have been banned or restricted by the Stockholm Protocol, following disclosure that they have been damaging human and animal life, most notably in the Arctic. Polychlorinated biphenyls (PCBs) and dioxins are two of the most widespread chemicals that concentrate in the Arctic owing to prevailing wind and ocean currents. They lodge in the body fat of mammals, and increase sharply in potency (bio-magnify or -accumulate) up the food chain. The Inuit, at the top of the Arctic food chain, would eventually have faced extinction if these chemicals had not been banned. Even with the ban, Inuit mothers have been told not to breast-feed their infants, and to restrict their consumption of some fish and land mammals which constitute the traditional Inuit diet.

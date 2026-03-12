@@ -1,0 +1,12 @@
+---
+images:
+- _page_0_Picture_2.jpeg
+order: 1
+title: A COMPANION TO THE PHILOSOPHY OF TECHNOLOGY
+---
+
+![](_page_0_Picture_2.jpeg)
+
+JAN KYRRE BERG OLSEN, STIG ANDUR PEDERSEN, AND VINCENT F. HENDRICKS
+
+WILEY-BLACKWELL

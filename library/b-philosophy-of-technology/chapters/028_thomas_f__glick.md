@@ -1,0 +1,7 @@
+---
+images: []
+order: 28
+title: THOMAS F. GLICK
+---
+
+By the time the Arabs had conquered a great band of territory from Spain to northern India (711–13), they had fallen heir to the scientific and technological lore of ancient China, India, Persia and Rome. A wave of technology emanating from China and India rolled across the Islamic world of the eighth and ninth centuries ad. A package of Chinese manufacturing technologies associated with the vertical, geared watermill equipped with cams arrived toward the end of the eighth-century movement. The package included manufacture of products that required maceration before they could be finished by hand: paper, sugar, and fulling and related industries. The vertical mill could also be used to mill wheat and husk rice. Paper first appeared in the Islamic world in Samarkand around ad 757, its arrival coinciding with the first Indian astronomical tables, the astronomical writings of al-Battani, Indian numerals, and the beginning of the great movement of translation of Greek, Persian and Indian science and philosophy into Arabic. The enormous size of the translation movement was itself an epiphenomenon of paper, without which it could not have attained such vast proportions, while astronomical tables and Indian numerals (for commercial transactions) were also associated with paper. The diffusion of paper presupposed the concomitant diffusion of the chemistry associated with both paper-making and the production of inks that could be used on it.
